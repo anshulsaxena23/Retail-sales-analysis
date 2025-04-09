@@ -54,6 +54,7 @@ Heatmap: Orders by hour of the day.
 Pie Chart: Sales distribution by city.
 
 🚀 Key Findings
+
 ✅ December had the highest sales, likely due to holiday shopping.
 
 ✅ Phones & Laptops were top-selling products, indicating a strong tech-savvy customer base.
