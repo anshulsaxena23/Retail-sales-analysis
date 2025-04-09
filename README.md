@@ -55,6 +55,9 @@ Pie Chart: Sales distribution by city.
 
 🚀 Key Findings
 ✅ December had the highest sales, likely due to holiday shopping.
+
 ✅ Phones & Laptops were top-selling products, indicating a strong tech-savvy customer base.
+
 ✅ Most purchases occurred between 6 PM - 8 PM, useful for sales optimization.
+
 ✅ Customers frequently bought complementary products together, ideal for cross-selling strategies.
